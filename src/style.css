@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h3 {
+    font-family: cursive;
+    font-style: italic;
+}
+h1, h3 {
+    margin: 0 auto;
+}
+
+form {
+    margin-top: 50px;
+}
+
+form input {
+    margin-right: 10px;
+}
+
+
+.horoscope-div {
+    margin-top: 20px;
+}
+
+.horoscope-display {
+    margin: 20px auto;
+    max-width: 600px; 
+    text-align: left;
+}
+
+.emoji-button {
+    margin-top: 10px;
+}
